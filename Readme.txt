@@ -42,8 +42,8 @@ Discord_Token=your_discord_bot_token
 
 # 🗄️ PostgreSQL Configuration
 Host=your_postgres_host         # โฮสต์ของฐานข้อมูล เช่น localhost หรือชื่อ container
-Database=toomluvcat_v677        # ชื่อฐานข้อมูล
-Username=toomluvcat_v677_user   # ชื่อผู้ใช้
+Database=                       # ชื่อฐานข้อมูล
+Username=                       # ชื่อผู้ใช้
 Password=your_postgres_password # รหัสผ่าน
 Port=5432                       # พอร์ตของ PostgreSQL
 88
