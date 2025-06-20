@@ -2,7 +2,7 @@ FROM golang:1.24.3-alpine AS build
 
 RUN apk add --no-cache git
 
-WORKDIR /app
+WORKDIR /ap
 
 COPY app/go.mod app/go.sum ./
 RUN go mod download
